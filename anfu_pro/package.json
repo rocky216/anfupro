@@ -1,12 +1,12 @@
 {
-  "name": "anfu",
+  "name": "anfu_pro",
   "version": "1.0.0",
   "private": true,
   "description": "",
   "templateInfo": {
     "name": "redux",
     "typescript": false,
-    "css": "sass"
+    "css": "less"
   },
   "scripts": {
     "build:weapp": "taro build --type weapp",
@@ -47,7 +47,7 @@
     "@types/webpack-env": "^1.13.6",
     "@tarojs/plugin-babel": "1.3.12",
     "@tarojs/plugin-csso": "1.3.12",
-    "@tarojs/plugin-sass": "1.3.12",
+    "@tarojs/plugin-less": "1.3.12",
     "@tarojs/plugin-uglifyjs": "1.3.12",
     "@tarojs/webpack-runner": "1.3.12",
     "babel-plugin-transform-class-properties": "^6.24.1",

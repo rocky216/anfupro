@@ -95,24 +95,24 @@ var Index = (_dec = (0, _index3.connect)(function (_ref) {
       return this.__state;
     }
   }, {
-    key: "funPrivatehvChb",
-    value: function funPrivatehvChb() {
+    key: "funPrivatefzHfO",
+    value: function funPrivatefzHfO() {
       return this.props.add.apply(undefined, Array.prototype.slice.call(arguments, 1));
     }
   }, {
-    key: "funPrivateRjeoG",
-    value: function funPrivateRjeoG() {
+    key: "funPrivateXmili",
+    value: function funPrivateXmili() {
       return this.props.dec.apply(undefined, Array.prototype.slice.call(arguments, 1));
     }
   }, {
-    key: "funPrivateNpZbE",
-    value: function funPrivateNpZbE() {
+    key: "funPrivateMZHOA",
+    value: function funPrivateMZHOA() {
       return this.props.asyncAdd.apply(undefined, Array.prototype.slice.call(arguments, 1));
     }
   }]);
 
   return Index;
-}(_index.Component), _class2.$$events = ["funPrivatehvChb", "funPrivateRjeoG", "funPrivateNpZbE"], _class2.$$componentPath = "pages/index/index", _temp2)) || _class);
+}(_index.Component), _class2.$$events = ["funPrivatefzHfO", "funPrivateXmili", "funPrivateMZHOA"], _class2.$$componentPath = "pages/index/index", _temp2)) || _class);
 exports.default = Index;
 
 Component(require('../../npm/@tarojs/taro-weapp/index.js').default.createComponent(Index, true));

@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'anfu',
+  projectName: 'anfu_pro',
   date: '2019-8-6',
   designWidth: 750,
   deviceRatio: {
