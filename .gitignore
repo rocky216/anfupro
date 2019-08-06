@@ -1,0 +1,6 @@
+dist/
+deploy_versions/
+.temp/
+.rn_temp/
+anfu/node_modules/
+.DS_Store
